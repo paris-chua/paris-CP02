@@ -1,0 +1,23 @@
+{
+  "name": "paris-cp02",
+  "version": "1.0.0",
+  "description": "For EDV Trello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paris-chua/paris-CP02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paris-chua/paris-CP02/issues"
+  },
+  "homepage": "https://github.com/paris-chua/paris-CP02#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
